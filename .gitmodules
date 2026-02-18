@@ -1,0 +1,3 @@
+[submodule "external/MathVier"]
+	path = external/MathVier
+	url = https://github.com/lorh4n/MathVier.git
