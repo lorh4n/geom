@@ -1,3 +1,6 @@
 [submodule "external/MathVier"]
 	path = external/MathVier
 	url = https://github.com/lorh4n/MathVier.git
+[submodule "external/catch2"]
+	path = external/catch2
+	url = https://github.com/catchorg/Catch2.git
